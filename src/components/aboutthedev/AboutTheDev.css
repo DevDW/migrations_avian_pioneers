@@ -1,0 +1,21 @@
+.about-the-dev-section {
+    padding-top: 2%;
+    text-align: center;
+    margin: auto;
+    width: 75%;
+}
+
+figcaption {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.15em;
+    margin: 5px;
+}
+
+.icons {
+    display: inline-block;
+}
+
+.icon-right {
+    margin: 0 0 0 3em;
+}

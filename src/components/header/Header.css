@@ -1,0 +1,27 @@
+.header-container {
+    background: url("../birds_migrating_bg.jpg") no-repeat top center fixed;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+}
+
+.page-title {
+    font-size: 3em;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 75px;
+}
+
+.navbar li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.nav-item {
+    padding: 3em;
+}
